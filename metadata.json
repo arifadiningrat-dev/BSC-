@@ -1,0 +1,8 @@
+{
+  "name": "MTM Performance Management System",
+  "description": "A comprehensive Balanced Scorecard and Performance Management Dashboard for Corporate and Directorate levels, featuring monthly reviews, quarterly business reviews (QBR), and AI-driven insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
